@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-UrBackup is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://urbackup.org/
+UrBackup provides an open-source client/server backup solution for Windows, Linux, macOS and FreeBSD. It offers image and file backups, fast incremental restores, web‑based management, and commercial extensions such as change‑block tracking and cloud‑appliance options. The software is licensed under AGPL‑v3+, with both free and paid features for enterprises.
+
+**Areas:** Backup · OpenSource · ClientServer · Windows · Linux · FreeBSD
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.urbackup.org/)
+- [Documentation](https://www.urbackup.org/documentation.html)
+- [Changelog](https://github.com/uroni/urbackup_restore_cd/releases/tag/2021-07-18_19-53-18)
+- [Blog](https://blog.urbackup.org)
+- [GitHub](https://github.com/uroni)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/urbackup/](https://apis.io/providers/urbackup/).
